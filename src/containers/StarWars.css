@@ -1,0 +1,7 @@
+.Starwars {
+  margin-top: 15px;
+}
+
+.Starwars .navbar-brand {
+  font-weight: bold;
+}
